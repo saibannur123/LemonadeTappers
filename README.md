@@ -10,7 +10,7 @@ In tapper's, the player is a bartender serving lemonade to thirsty customers. Wh
 
 ## Controls
 
-Up and down arrows to move between tables<br>
-Space to send a lemonade drink to a customer
+-Up and down arrows to move between tables<br>
+-Space to send a lemonade drink to a customer
 
 <img width="1279" alt="Game" src="https://user-images.githubusercontent.com/58525723/210891956-86db5ecb-8a8b-4837-be60-6a80b7e5c2c3.png">
